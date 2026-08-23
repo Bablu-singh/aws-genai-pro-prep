@@ -1,0 +1,11 @@
+# OS / OneDrive junk
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Local editor/tooling state
+.claude/
+
+# Scratch
+*.tmp
+*.bak
